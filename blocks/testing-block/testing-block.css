@@ -1,3 +1,7 @@
 .testing-block {
   background: #FF0;
 }
+
+.testing-block > dif {
+  background: #F0F;
+}
